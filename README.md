@@ -170,7 +170,7 @@
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
+[twitter]: https://twitter.com/udeshitha90
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
+[instagram]: https://instagram.com/the.cs.geek?igshid=ashanklz
+[linkedin]: https://www.linkedin.com/in/ashan-udeshitha/
