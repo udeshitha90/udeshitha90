@@ -167,6 +167,8 @@
 
 <div align="center">
 <h3 align="center">Thank You &nbsp;❤️&nbsp; by Ashan Udeshitha!</h3>
+<h5 align="center">Original  &nbsp; https://github.com/punitkmryh/</h5>
+
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
