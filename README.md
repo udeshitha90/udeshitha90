@@ -25,7 +25,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Software Engineer (Full Stack .Net ) at Nihar (Perth,AU)
-- 🔭 I’m currently working as a Software Engineer(Full Stack .Net ) at Nihar (Perth,AU)  :grin:
+- 🔭 I’m currently working as a Software Engineer(Full Stack .Net ) :grin:
 - 🌱 I’m currently learning Azure Cloud Development (AZ-204-> AZ 400).
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
